@@ -9,4 +9,4 @@ def character_counter(str1):
     return dict
 
 string = input("Enter your word or scentance: ")
-print(character_freq(string))
+print(character_counter(string))
